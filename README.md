@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Ramesh
+#### Always be learning.
+![Always be learning.](https://srclogix.com/images/home/Conversion-Optimization.svg)
 
-<!--
-**relaiyavalli/relaiyavalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Knowledge is the true power.
 
-Here are some ideas to get you started:
+Skills: C, C++, Python, VoIP, webRTC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on TokTown 
+- 🌱 I’m currently learning web.dev web.assembly 
+- 📫 How to reach me: ramesh@srclogix.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dev.to/ramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elaiyavalli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://srclogix.com)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
