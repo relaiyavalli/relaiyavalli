@@ -3,13 +3,15 @@
 ![SourceLogix.](https://srclogix.com/images/home/Conversion-Optimization.svg)
 
 
-**Skills:** C, C++, Python, VoIP, webRTC, GeoSpatial, 
+**Skills:** \n
+C, C++, Python, VoIP, webRTC, GeoSpatial, 
 
 
-**Companies:** SourceLogix, Phone.com, WikiRealty, CoreLogic, First Advantage, First American.
+**Companies:** \n
+SourceLogix, Phone.com, WikiRealty, CoreLogic, First Advantage, First American.
 
 
-**Projects:**
+**Projects:** \n
 🔭 Working on TokTown. Chat, voice, video to improve customer engagement. \
 🌱 Learning web.assembly, web.quic, web.anything 😀 \
 🦠 This shall pass. Ponder how will the world change? \
