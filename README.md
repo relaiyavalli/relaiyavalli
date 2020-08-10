@@ -19,4 +19,4 @@ Hiking Kungsleden 🇸🇪 Climbing Mt. Fuji 🌁 \
 📫 : ramesh@srclogix.com
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dev.to/ramesh) [<img src='https://srclogix.com/images/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elaiyavalli) [<img src='https://srclogix.com/images/favicon.jpg' alt='website' height='40'>](https://srclogix.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Ramesh Elaiyavalli dev.to' height='40'>](https://dev.to/ramesh) [<img src='https://srclogix.com/images/linkedin.svg' alt='Ramesh Elaiyavalli linkedin' height='40'>](https://www.linkedin.com/in/elaiyavalli) [<img src='https://srclogix.com/images/favicon.jpg' alt='Ramesh Elaiyavalli SourceLogix website' height='40'>](https://srclogix.com)
