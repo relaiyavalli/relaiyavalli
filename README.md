@@ -12,7 +12,6 @@ SourceLogix, Phone.com, WikiRealty, CoreLogic, First Advantage, First American.
 
 
 **Projects:**  
-
 🔭 Working on TokTown. Chat, voice, video to improve customer engagement. \
 🌱 Learning web.assembly, web.quic, web.anything 😀 \
 🦠 This shall pass. Ponder how will the world change? \
