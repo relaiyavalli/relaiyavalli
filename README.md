@@ -10,7 +10,7 @@
 
 
 **Projects:**
-🔭 Working on TokTown. Chat, voice, video to improve customer engagement.
+🔭 Working on TokTown. Chat, voice, video to improve customer engagement. \n
 🌱 Learning web.assembly, web.quic, web.anything 😀
 🦠 This shall pass. Ponder how will the world change?
 Hiking Kungsleden 🇸🇪 Climbing Mt. Fuji 🌁
